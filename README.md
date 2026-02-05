@@ -30,7 +30,7 @@ Below are key slides from the technical presentation explaining the system archi
 ## 🛠️ How to Run & Analyze
 
 ### 1. Technical Analysis (Teknik Analiz)
-For a detailed theoretical background and performance evaluation, please review the files in the `/docs` folder:
+For a detailed theoretical background and performance evaluation, please review the files in the `/Documents-Belgeler` folder:
 * `cache_mimari_analizi_sunum.pptx`: Comprehensive presentation of the project.
 * `ÖNBELLEK EŞLEME TEKNİKLERİ PERFORMANS ANALİZİ`: Detailed system analysis report.
 * `Sistem Analizi Ve Tasarımı`: Systems Analysis and Design
