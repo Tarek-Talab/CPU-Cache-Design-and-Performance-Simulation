@@ -1,1 +1,13 @@
-[!TIP] Architecture Visualisation: The digital logic designs and architectural schematics of this project are prepared using Logisim. To view and interact with the .circ files, please ensure you have Logisim installed on your system.
+# 🏛️ Architecture & Logic Design This folder contains the architectural circuit designs for the cache mapping logic.
+
+Software Required: Logisim
+
+File Extension: .circ
+
+How to open:
+
+Open Logisim.
+
+Go to File > Open.
+
+Select the .circ file in this directory.
