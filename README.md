@@ -39,4 +39,4 @@ The simulation is developed in **C**. To run it on your local machine (preferabl
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Tarek-Talab/CPU-Cache-Design-and-Performance-Simulation.git](https://github.com/Tarek-Talab/CPU-Cache-Design-and-Performance-Simulation.git)
+   git clone https://github.com/Tarek-Talab/CPU-Cache-Design-and-Performance-Simulation.git
