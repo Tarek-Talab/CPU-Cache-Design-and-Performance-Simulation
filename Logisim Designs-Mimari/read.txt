@@ -1,1 +1,1 @@
-
+[!TIP] Architecture Visualisation: The digital logic designs and architectural schematics of this project are prepared using Logisim. To view and interact with the .circ files, please ensure you have Logisim installed on your system.
