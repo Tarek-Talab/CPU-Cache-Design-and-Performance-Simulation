@@ -25,3 +25,18 @@ Below are key slides from the technical presentation explaining the system archi
 **Direct Mapping**
 
 <img width="1920" height="1080" alt="Direct" src="https://github.com/user-attachments/assets/d5c0df82-c0fc-46cc-974d-ae82f4fb8599" />
+
+
+## 🛠️ How to Run & Analyze
+
+### 1. Technical Analysis (Teknik Analiz)
+For a detailed theoretical background and performance evaluation, please review the files in the `/docs` folder:
+* `cache_mimari_analizi_sunum.pptx`: Comprehensive presentation of the project.
+* `ÖNBELLEK EŞLEME TEKNİKLERİ PERFORMANS ANALİZİ`: Detailed system analysis report.
+
+### 2. Running the Simulation (Simülasyonu Çalıştırma)
+The simulation is developed in **C**. To run it on your local machine (preferably Linux/Xubuntu):
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Tarek-Talab/CPU-Cache-Design-and-Performance-Simulation.git](https://github.com/Tarek-Talab/CPU-Cache-Design-and-Performance-Simulation.git)
