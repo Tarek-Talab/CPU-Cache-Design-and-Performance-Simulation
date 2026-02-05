@@ -12,6 +12,8 @@ This project analyzes the CPU-Cache interaction, a core computer architecture co
 ## 📊 Methodology and Visuals
 Below are key slides from the technical presentation explaining the system architecture and simulation logic.
 
+[!TIP] Architecture Visualisation: The digital logic designs and architectural schematics of this project are prepared using Logisim. To view and interact with the .circ files, please ensure you have Logisim installed on your system.
+
 *Figure 1: System architecture and cache mapping logic.*
 
 **Full-Associative Mapping**
