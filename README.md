@@ -33,6 +33,7 @@ Below are key slides from the technical presentation explaining the system archi
 For a detailed theoretical background and performance evaluation, please review the files in the `/docs` folder:
 * `cache_mimari_analizi_sunum.pptx`: Comprehensive presentation of the project.
 * `ÖNBELLEK EŞLEME TEKNİKLERİ PERFORMANS ANALİZİ`: Detailed system analysis report.
+* `Sistem Analizi Ve Tasarımı`: Systems Analysis and Design
 
 ### 2. Running the Simulation (Simülasyonu Çalıştırma)
 The simulation is developed in **C**. To run it on your local machine (preferably Linux/Xubuntu):
